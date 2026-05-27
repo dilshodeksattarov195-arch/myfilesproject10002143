@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchspdate",
+        "uuid": 1495814,
+        "checksum": "vd6xt"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
